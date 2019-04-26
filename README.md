@@ -6,5 +6,5 @@
 |:---:|:---:|
 |0001|[二分查找算法](https://github.com/lyx003288/golang/blob/master/0001.binary_search.go)|
 |0002|[快速排序算法](https://github.com/lyx003288/golang/blob/master/0002.quick_sort.go)|
-|0003|[归并排序算法](https://github.com/lyx003288/golang/blob/master/0001.merge_sort.go)|
+|0003|[归并排序算法](https://github.com/lyx003288/golang/blob/master/0003.merge_sort.go)|
 
